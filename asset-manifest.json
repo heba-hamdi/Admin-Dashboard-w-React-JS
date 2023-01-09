@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Admin-Dashboard-w-React-JS/static/css/main.d19081d0.css",
-    "main.js": "/Admin-Dashboard-w-React-JS/static/js/main.f3ce22ce.js",
+    "main.css": "/Admin-Dashboard-w-React-JS/static/css/main.b3d4f903.css",
+    "main.js": "/Admin-Dashboard-w-React-JS/static/js/main.abc05a6e.js",
     "static/media/product4.jpg": "/Admin-Dashboard-w-React-JS/static/media/product4.767417bea17688d6d8ce.jpg",
     "static/media/product2.jpg": "/Admin-Dashboard-w-React-JS/static/media/product2.e93f12ec1b20980a1bd1.jpg",
     "static/media/product1.jpg": "/Admin-Dashboard-w-React-JS/static/media/product1.b8efc7a24c281ed8911b.jpg",
@@ -15,11 +15,11 @@
     "static/media/avatar4.jpg": "/Admin-Dashboard-w-React-JS/static/media/avatar4.f56b774f77caaf2f6921.jpg",
     "static/media/product5.jpg": "/Admin-Dashboard-w-React-JS/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
     "index.html": "/Admin-Dashboard-w-React-JS/index.html",
-    "main.d19081d0.css.map": "/Admin-Dashboard-w-React-JS/static/css/main.d19081d0.css.map",
-    "main.f3ce22ce.js.map": "/Admin-Dashboard-w-React-JS/static/js/main.f3ce22ce.js.map"
+    "main.b3d4f903.css.map": "/Admin-Dashboard-w-React-JS/static/css/main.b3d4f903.css.map",
+    "main.abc05a6e.js.map": "/Admin-Dashboard-w-React-JS/static/js/main.abc05a6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d19081d0.css",
-    "static/js/main.f3ce22ce.js"
+    "static/css/main.b3d4f903.css",
+    "static/js/main.abc05a6e.js"
   ]
 }
